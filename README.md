@@ -1,2 +1,2 @@
 # Google-Form-Auto-v1.0
-Hướng dẫn nào rảnh viết =))
+Tạo bài kiểm tra với googleform nhanh hơn, tiện hơn
